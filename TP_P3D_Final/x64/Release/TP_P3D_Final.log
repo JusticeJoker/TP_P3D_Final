@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(175,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(212,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(553,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(554,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(558,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(559,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(560,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(561,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\TP_P3D_Final\Source.cpp(588,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  4 of 628 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    58 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\x64\Release\vc120.pdb'; linking object as if no debug info
+  TP_P3D_Final.vcxproj -> C:\Users\gonro\Desktop\P3D Trabalho\P3D_Final\TP_P3D_Final\x64\Release\TP_P3D_Final.exe
